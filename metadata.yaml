@@ -1,0 +1,40 @@
+_repo: The-Feast-at-Solhoug_18428
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: The Feast at Solhaug (or in the original Norwegian Gildet paa Solhoug)
+  is the first publicly successful drama by Henrik Ibsen. It was written in 1855 and
+  had its premier at Det norske Theater in Bergen on January 2, 1856. Part of the
+  strength and charm of this play as well as Ibsen's other early poetic works results
+  from the style of the poetic form and the inherent melody of the old ballads for
+  those who speak Scandinavian languages.-- Excerpted from Wikipedia, the free encyclopedia.
+gutenberg_issued: '2006-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian drama -- Translations into English'
+title: The Feast at Solhoug
+url: http://www.gutenberg.org/ebooks/18428
